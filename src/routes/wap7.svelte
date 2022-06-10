@@ -1,0 +1,2 @@
+<h1>WAP7</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis debitis placeat esse aut ea iure repudiandae animi deserunt sequi inventore enim, neque minima quos at commodi quae illo dicta aliquid maxime assumenda doloribus? Similique laborum accusamus repellat id ullam et deserunt voluptas mollitia doloribus, maxime consequuntur expedita dolores est culpa animi adipisci consectetur totam unde iure?</p>
